@@ -1,0 +1,14 @@
+{
+  "name": "exercise_02_01_01",
+  "version": "1.0.0",
+  "description": "An application for leaving notes on Twitter friends and followers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nathan A. Howard",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
