@@ -1,0 +1,11 @@
+{
+    "port": 8080,
+    "request_token_url": "https://api.twitter.com/oauth/request_token",
+    "access_token_url": "https://api.twitter.com/oauth/access_token",
+    "authorize_url": "https://api.twitter.com/oauth/authorize",
+    "consumer_key": "uwzoJutOvifX5TiwOmyhBndjd",
+    "consumer_secret": "vn2DwmzbnOs5IhhoV3SZ9n0Q7wV7bUannThI3GzCW3i9C4ABIN",
+    "oauth_version": "1.0",
+    "oauth_signature": "HMAC-SHA1",
+    "oauth_callback": "https://nhoward388.localtunnel.me/request_token"
+}

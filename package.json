@@ -9,6 +9,8 @@
   "author": "Nathan A. Howard",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.16.4"
+    "cookie-parser": "^1.4.3",
+    "express": "^4.16.4",
+    "oauth": "^0.9.15"
   }
 }
